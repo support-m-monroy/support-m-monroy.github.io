@@ -4,10 +4,10 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: ""
 
 # Title of the Site
-title: What A Theme
+title: support-m-monroy.github.io
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
