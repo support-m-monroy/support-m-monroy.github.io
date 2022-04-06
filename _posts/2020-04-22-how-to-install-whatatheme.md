@@ -12,7 +12,7 @@ tags:
 #¿Cual es su funcion?
 >Su principal función es realizar operaciones matemáticas –de la misma manera que trabaja la más potente calculadora-, pero también la de computar complejas interrelaciones y ordenar y presentar en forma de gráfico los resultados obtenidos.
 
-<https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/microsoft-office-1.png>
+https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/microsoft-office-1.png
 ---
 
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
