@@ -9,8 +9,13 @@ tags:
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
+El Software son las instrucciones para comunicarse con el ordenador y que hacen posible su uso.Resumiendo, el software en informática son los programas.Sin el software, las computadoras u ordenadores serían inútiles.
+
+Por ejemplo, sin tu software de navegador de Internet (el programa Explorer o Chrome), no podrías navegar por Internet o leer esta página, y sin un sistema operativo, también software, el navegador no podría funcionar.
+
+Las aplicaciones y las App en los celulares o móviles son también software.
+
+También podríamos decir que el software de un ordenador es la parte que no podemos tocar.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
