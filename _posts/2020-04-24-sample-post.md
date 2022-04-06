@@ -21,8 +21,6 @@ También podríamos decir que el software de un ordenador es la parte que no pod
 * [Datos curiosos sobre el software](https://tekkieuni.com/es/blog/coding-facts-you-didnt-know-about/)
 
 ---
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
 
 
 
