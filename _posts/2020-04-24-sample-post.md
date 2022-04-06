@@ -1,7 +1,7 @@
 ---
 title: Software
 layout: post
-post-image: "https://uasdsanjuan.org/wp-content/uploads/2018/07/descubre-que-tanto-sabes-de-informatica-con-este-test-1-768x512-263x263.jpg"
+post-image: "https://d2jhl5pzkfi24b.cloudfront.net/article_image/0001/04/49be7ce7490aa73812914cc0407874f8080ca6fc.jpeg"
 description: 
 tags:
 - sample
