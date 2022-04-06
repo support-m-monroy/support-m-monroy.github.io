@@ -17,7 +17,7 @@ Las aplicaciones y las App en los celulares o móviles son también software.
 
 También podríamos decir que el software de un ordenador es la parte que no podemos tocar.
 * [Tipos de software](https://www.wolterskluwer.com/es-es/expert-insights/que-tipos-de-software-hay)
-* [Mantenimiento para software](https://cpl.thalesgroup.com/es/software-monetization/four-types-of-software-maintenance#:~:text=El%20mantenimiento%20del%20software%20se,vida%20del%20desarrollo%20de%20software).)
+* [Mantenimiento para software](https://cpl.thalesgroup.com/es/software-monetization/four-types-of-software-maintenance#:~:text=El%20mantenimiento%20del%20software%20se,vida%20del%20desarrollo%20de%20software)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ---
