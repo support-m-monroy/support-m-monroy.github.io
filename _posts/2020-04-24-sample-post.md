@@ -16,7 +16,7 @@ Por ejemplo, sin tu software de navegador de Internet (el programa Explorer o Ch
 Las aplicaciones y las App en los celulares o móviles son también software.
 
 También podríamos decir que el software de un ordenador es la parte que no podemos tocar.
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Tipos de software](https://www.wolterskluwer.com/es-es/expert-insights/que-tipos-de-software-hay)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
