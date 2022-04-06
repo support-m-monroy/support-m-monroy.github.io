@@ -1,7 +1,7 @@
 ---
 title: Software
 layout: post
-post-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fuasdsanjuan.org%2Foferta%2Flicenciatura-en-informatica%2F&psig=AOvVaw3bj38vYpnx4kYt4c9EDFyP&ust=1649290660253000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCPiEtfSU_vYCFQAAAAAdAAAAABAU"
+post-image: "https://uasdsanjuan.org/wp-content/uploads/2018/07/descubre-que-tanto-sabes-de-informatica-con-este-test-1-768x512-263x263.jpg"
 description: 
 tags:
 - sample
