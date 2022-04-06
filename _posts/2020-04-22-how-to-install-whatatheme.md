@@ -1,7 +1,6 @@
 ---
-title: ¿Cual es la paqueteria basica en una computadora?
+title: "¿Cual es la paqueteria basica en una computadora?"
 post-image: https://www.apptuts.net/wp-content/uploads/2020/12/programas-para-pc.jpg
-
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
