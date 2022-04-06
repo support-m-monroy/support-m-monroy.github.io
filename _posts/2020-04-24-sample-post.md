@@ -21,13 +21,6 @@ También podríamos decir que el software de un ordenador es la parte que no pod
 * [Datos curiosos sobre el software](https://tekkieuni.com/es/blog/coding-facts-you-didnt-know-about/)
 
 ---
-
-
-
-
-
-
-
 **Software y su origen **
 
 Software es una palabra que proviene del idioma inglés, pero que gracias a la masificación de uso, ha sido aceptada por la Real Academia Española. Según la RAE, el software es un conjunto de programas, instrucciones y reglas informáticas que permiten ejecutar distintas tareas en una computadora.
