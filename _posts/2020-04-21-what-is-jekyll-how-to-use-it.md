@@ -1,7 +1,6 @@
 ---
 title: Hardware
-post-image: "![image](https://user-images.githubusercontent.com/101681129/162097851-343ba5bb-d671-48d7-a95f-f1e19293d9b8.png)"
-
+post-image: "https://techwrap.in/wp-content/uploads/2021/06/software-hardware.jpg"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
