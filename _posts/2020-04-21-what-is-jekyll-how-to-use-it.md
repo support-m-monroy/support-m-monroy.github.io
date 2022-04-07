@@ -11,7 +11,7 @@ tags:
 
 
 
->¿Que el el hardware?
+>**¿Que el el hardware?**
 El hardware de la computadora, en términos simples, son los componentes físicos que un sistema de la computadora necesita para funcionar.
 
 Hardware es la parte física de un ordenador o sistema informático. Está formado por los componentes eléctricos, electrónicos, electromecánicos y mecánicos, tales como circuitos de cables y luz, placas, memorias, discos duros, dispositivos periféricos y cualquier otro material en estado físico que sea necesario para hacer que el equipo funcione.
