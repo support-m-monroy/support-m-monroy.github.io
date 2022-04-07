@@ -9,23 +9,15 @@ tags:
 - theme
 ---
 
-#¿Cual es su funcion?
+**¿Cual es su funcion?**
 >Su principal función es realizar operaciones matemáticas –de la misma manera que trabaja la más potente calculadora-, pero también la de computar complejas interrelaciones y ordenar y presentar en forma de gráfico los resultados obtenidos.
 
-https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/microsoft-office-1.png
----
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
-`Ping on Messenger`<br>
-`Send an Email`<br>
-`Tweet on Twitter`<br>
-The contact section will also include 10 different social media buttons for your audience to follow.<br>
-`Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
+**Introduccion**
+Sabemos que hacer una selección de los programas indispensables para un PC Windows es algo complicado, especialmente porque esa selección variará en función de las necesidades de cada usuario. La cantidad de software disponible es enorme, y es posible que nos hayamos dejado algún programa fuera de nuestra selección, cuando para ti quizá sea uno de los más imprescindibles.
+
+Aun así, a continuación te dejamos los que para el equipo de Infocomputer son los programas que más vas a necesitar en tu día a día, y que tarde o temprano acabarás utilizando. Además vamos a hablarte brevemente sobre cada uno de ellos para que sepas perfectamente en qué consiste, cómo funciona y cómo te ayudará. Presta atención y toma nota.
 
 ### Blog -
 The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
