@@ -15,6 +15,7 @@ tags:
 
 
 **Introduccion**
+
 Sabemos que hacer una selección de los programas indispensables para un PC Windows es algo complicado, especialmente porque esa selección variará en función de las necesidades de cada usuario. La cantidad de software disponible es enorme, y es posible que nos hayamos dejado algún programa fuera de nuestra selección, cuando para ti quizá sea uno de los más imprescindibles.
 
 Aun así, a continuación te dejamos los que para el equipo de Infocomputer son los programas que más vas a necesitar en tu día a día, y que tarde o temprano acabarás utilizando. Además vamos a hablarte brevemente sobre cada uno de ellos para que sepas perfectamente en qué consiste, cómo funciona y cómo te ayudará. Presta atención y toma nota.
