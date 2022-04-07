@@ -26,7 +26,30 @@ Desde la aparición de las primeras máquinas computacionales en la década de l
 **°Segunda generación de hardware (1957-1963): los tubos al vació fueron sustituidos por transistores.**
 **°
 
-### Browsing your Jekyll site
-> # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+**Clasificación del hardware**
+El hardware se clasifica en 6 categorías, según el desempeño de sus componentes.
 
-###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
+# Hardware de procesamiento
+Corresponde a la Unidad Central de Procesamiento o CPU, el centro de operaciones lógicas de la computadora, en donde se interpretan y ejecutan las tareas necesarias para el funcionamiento del resto de los componentes.
+
+# Hardware de almacenamiento
+Como indica su nombre, hace referencia a todos los componentes cuya función es resguardar la información para que el usuario pueda acceder a ella en cualquier momento. El dispositivo principal en este caso es la memoria RAM (Random Access Memory), pero también está conformada por memorias secundarias, como los discos duros o las memorias SSD o USB.
+
+# Hardware gráfico
+Está compuesto principalmente por las tarjetas gráficas que poseen memoria y CPU propios, y son las encargadas de interpretar y ejecutar las señales dedicadas a la construcción de imágenes. El hecho de que esta función no recaiga en el CPU tiene que ver con la eficiencia, ya que al liberar de esas funciones a la memoria principal, el sistema funciona de manera óptima.
+
+# Dispositivos periféricos
+Es todo el hardware que permite que la información pueda ingresar a la computadora, o salir al exterior. Se subdividen en tres categorías.
+
+° Periféricos de entrada: son los que permiten el acceso de datos a la computadora. Por ejemplo, el teclado, el micrófono, la cámara web, etc.
+° Periféricos de salida: a través de ellos, el usuario puede extraer la información, como los escáneres, las impresoras, las consolas y los parlantes o altavoces.
+° Periféricos de entrada y salida o mixtos: son capaces de introducir o extraer la información. Las pantallas táctiles entran en esta categoría, al igual que los lectores de DVD o BlueRay y las memorias flash. Estas últimas, son esencialmente memorias secundarias, pero se usan como periféricos mixtos.
+
+
+
+
+
+
+
+
+
