@@ -42,7 +42,9 @@ Está compuesto principalmente por las tarjetas gráficas que poseen memoria y C
 Es todo el hardware que permite que la información pueda ingresar a la computadora, o salir al exterior. Se subdividen en tres categorías.
 
 ° Periféricos de entrada: son los que permiten el acceso de datos a la computadora. Por ejemplo, el teclado, el micrófono, la cámara web, etc.
+
 ° Periféricos de salida: a través de ellos, el usuario puede extraer la información, como los escáneres, las impresoras, las consolas y los parlantes o altavoces.
+
 ° Periféricos de entrada y salida o mixtos: son capaces de introducir o extraer la información. Las pantallas táctiles entran en esta categoría, al igual que los lectores de DVD o BlueRay y las memorias flash. Estas últimas, son esencialmente memorias secundarias, pero se usan como periféricos mixtos.
 
 
