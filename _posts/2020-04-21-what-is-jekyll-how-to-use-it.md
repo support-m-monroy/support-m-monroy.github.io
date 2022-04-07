@@ -12,35 +12,20 @@ tags:
 
 
 >¿Que el el hardware?
+
 El hardware de la computadora, en términos simples, son los componentes físicos que un sistema de la computadora necesita para funcionar.
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
 
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+Hardware es la parte física de un ordenador o sistema informático. Está formado por los componentes eléctricos, electrónicos, electromecánicos y mecánicos, tales como circuitos de cables y luz, placas, memorias, discos duros, dispositivos periféricos y cualquier otro material en estado físico que sea necesario para hacer que el equipo funcione.
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
+El término hardware viene del inglés, significa partes duras y su uso se ha adoptado en el idioma español sin traducción, siendo utilizado para para aludir a los componentes de carácter material que conforman un equipo de computación.
+En la actualidad, hardware también hace referencia a la parte física de equipos de diversa naturaleza, como electrodomésticos, automóviles, teléfonos inteligentes, tablets, cámaras fotográficas, equipos electrónicos o piezas mecánicas.
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
 
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
-
-Again, `my-site` is just a random name which is customizable.
-
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
+**Evolución del hardware**
+Desde la aparición de las primeras máquinas computacionales en la década de los 40 hasta la actualidad, la creación de hardware ha evolucionado para adaptarse a las nuevas tecnologías y usuarios. De esta serie de cambios, se distinguen 4 generaciones de hardware:
+**°Primera generación de hardware (1945-1956): uso de tubos de vacío en máquinas de cálculo.**
+**°Segunda generación de hardware (1957-1963): los tubos al vació fueron sustituidos por transistores.**
+**°
 
 ### Browsing your Jekyll site
 > # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
