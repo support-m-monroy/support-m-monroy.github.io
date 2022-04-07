@@ -1,7 +1,7 @@
 ---
-title: What is Jekyll? How to use it?
-layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+title: Hardware
+post-image: "![image](https://user-images.githubusercontent.com/101681129/162097851-343ba5bb-d671-48d7-a95f-f1e19293d9b8.png)"
+
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
