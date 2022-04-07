@@ -26,9 +26,12 @@ Aun así, a continuación te dejamos los que para el equipo de Infocomputer son 
 El primer programa que deberás descargarte será Google Chrome, el navegador más apto de todos los que puedes encontrar actualmente sin ninguna duda. Está desarrollado por Google, por lo que poco más hace falta decir. Realmente eficaz y totalmente fiable, cuenta con todas las características y funcionalidades que se le puede pedir a un navegador, destacando por encima del resto su diseño innovador y muy intuitivo, así como la amplia oferta de extensiones que tiene disponible.
 
 Sus principales competidores son Microsoft Edge, que es la evolución del Internet Explorer de toda la vida, y Mozilla Firefox.
+![O722PPTFNBH55IPOVUR3VFOSZE](https://user-images.githubusercontent.com/101681129/162096882-bd7ce63a-9e45-45d8-b6d5-7c28f34faead.jpg)
+
 
 #2 Microsoft Office
 El paquete de Microsoft Office será uno de tus mejores aliados en tu nueva aventura con tu ordenador. El número de programas de ofimática que han tratado de hacerle frente a Microsoft Office es enorme, pero lo cierto es que hasta ahora nadie lo ha conseguido.
+![image](https://user-images.githubusercontent.com/101681129/162097081-57d68883-fb31-4551-abb3-59c2275412ec.png)
 
 El paquete Office cuenta con aplicaciones tan indispensables para el día a día como Word o Excel, el procesador de texto y la hoja de cálculo por excelencia en el mundo de la informática. Pero además cuenta con otros muchos que te pueden resultar muy útiles en función del uso que le des a tu ordenador: PowerPoint, Outlook, Access, Share Point o Microsoft Team entre otros.
 
@@ -38,13 +41,16 @@ Además con el objetivo de adaptarse a las necesidades de todos los usuarios, di
 Si eres una persona que acostumbra a ver vídeos y películas desde el ordenador, no te puede faltar el reproductor VLC, o lo que es lo mismo, el reproductor multimedia más famoso en el mundo entero. Aunque es cierto que tu PC ya vendrá equipado con el reproductor Media Player Classic, la experiencia de usuario que te ofrecerá VLC será mucho mayor.
 
 Se trata de un reproductor muy fácil de utilizar, muy potente y con un soporte multiplataforma simplemente excepcional. Dispone de un sinfín de versiones para PCs Windows, y todas ellas soportan la gran mayoría de formatos tanto de vídeo como de audio, ya que tiene todos los códecs necesarios para la reproducción incluidos de serie.
-
+![image](https://user-images.githubusercontent.com/101681129/162097312-45431fba-3e5e-48d7-8b27-87c7605e7457.png)
 
 #4 CCLeaner
 Si quieres mantener tu PC a salvo y libre de espacio, CCLeaner es indispensable para ti. Es un programa cuya principal función es la limpieza de archivos y la deshabilitación de programas, acabando con todos esos archivos que se van acumulando en Windows y que son totalmente inútiles, ya que lo único que hacen es ralentizar el funcionamiento de tu PC. Con un diseño muy intuitivo, es fácil de usar, por lo que no tendrás ningún problema a la hora de trabajar con él.
+
+![image](https://user-images.githubusercontent.com/101681129/162097358-ecab2570-579f-43f3-9dec-0be8057f1205.png)
 
 
 #5 WinZip
 Tarde o temprano utilizarás tu ordenador para mandar archivos, especialmente si usas tu equipo para trabajar. Muchos de esos ficheros tendrán un peso demasiado elevado como para poder enviarlos por correo electrónico, por lo que tendrás que comprimirlos en Zip, y aquí es donde entra en juego WinZip, el compresor de ficheros por excelencia.
 
 Es el más antiguo y el que mejor ha sabido ganarse la confianza de los usuarios. Soporta todo tipo de métodos de comprensión diferentes y permite enviar los ficheros directamente desde el programa de forma online.
+![image](https://user-images.githubusercontent.com/101681129/162097424-fc6026e4-5e32-48c6-b7e2-691357a27afe.png)
